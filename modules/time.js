@@ -1,4 +1,3 @@
-//var colors = require('colors');
 
 function getTime(uptime){
 	var hrs = parseInt(uptime/3600);
